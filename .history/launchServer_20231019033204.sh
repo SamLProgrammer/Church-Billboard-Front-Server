@@ -11,7 +11,7 @@ else
   echo "No process found on port 3000."
 fi
 
-cd /home/SamLProgrammer/church-billboard/front/Church-Billboard-Front-Server
+cd /home/SamLProgrammer/church-billboard/front/Church-BillBoard-Front
 
 # Install npm dependencies
 npm i
